@@ -1,2 +1,2 @@
 #!/bin/bash
-evho $((2#$BINARY))
+evho ((2#$BINARY))
